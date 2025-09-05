@@ -1,0 +1,35 @@
+# -------------------------
+# ReactJS Frontend
+# -------------------------
+node_modules/
+build/
+dist/
+.env
+.env.*.local
+coverage/
+*.log
+.DS_Store
+
+# -------------------------
+# ASP.NET Core Backend
+# -------------------------
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.env
+*.log
+.vscode/
+.idea/
+wwwroot/
+*.publish.xml
+*.nupkg
+secrets.json
+
+# -------------------------
+# SQL (Optional)
+# -------------------------
+*.mdf
+*.ldf
+*.bak
